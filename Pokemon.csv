@@ -1,0 +1,1108 @@
+Generation,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total,Mega Evolution,Legendary,Mythical
+I,Bulbasaur,Grass,Poison,45,49,49,65,65,45,318,No,No,No
+I,Ivysaur,Grass,Poison,60,62,63,80,80,60,405,No,No,No
+I,Venusaur,Grass,Poison,80,82,83,100,100,80,525,No,No,No
+I,VenusaurMega Venusaur,Grass,Poison,80,100,123,122,120,80,625,Yes,No,No
+I,Charmander,Fire,,39,52,43,60,50,65,309,No,No,No
+I,Charmeleon,Fire,,58,64,58,80,65,80,405,No,No,No
+I,Charizard,Fire,Flying,78,84,78,109,85,100,534,No,No,No
+I,CharizardMega Charizard X,Fire,Dragon,78,130,111,130,85,100,634,Yes,No,No
+I,CharizardMega Charizard Y,Fire,Flying,78,104,78,159,115,100,634,Yes,No,No
+I,Squirtle,Water,,44,48,65,50,64,43,314,No,No,No
+I,Wartortle,Water,,59,63,80,65,80,58,405,No,No,No
+I,Blastoise,Water,,79,83,100,85,105,78,530,No,No,No
+I,BlastoiseMega Blastoise,Water,,79,103,120,135,115,78,630,Yes,No,No
+I,Caterpie,Bug,,45,30,35,20,20,45,195,No,No,No
+I,Metapod,Bug,,50,20,55,25,25,30,205,No,No,No
+I,Butterfree,Bug,Flying,60,45,50,90,80,70,395,No,No,No
+I,Weedle,Bug,Poison,40,35,30,20,20,50,195,No,No,No
+I,Kakuna,Bug,Poison,45,25,50,25,25,35,205,No,No,No
+I,Beedrill,Bug,Poison,65,90,40,45,80,75,395,No,No,No
+I,BeedrillMega Beedrill,Bug,Poison,65,150,40,15,80,145,495,Yes,No,No
+I,Pidgey,Normal,Flying,40,45,40,35,35,56,251,No,No,No
+I,Pidgeotto,Normal,Flying,63,60,55,50,50,71,349,No,No,No
+I,Pidgeot,Normal,Flying,83,80,75,70,70,101,479,No,No,No
+I,PidgeotMega Pidgeot,Normal,Flying,83,80,80,135,80,121,579,Yes,No,No
+I,Rattata,Normal,,30,56,35,25,35,72,253,No,No,No
+I,Raticate,Normal,,55,81,60,50,70,97,413,No,No,No
+I,Spearow,Normal,Flying,40,60,30,31,31,70,262,No,No,No
+I,Fearow,Normal,Flying,65,90,65,61,61,100,442,No,No,No
+I,Ekans,Poison,,35,60,44,40,54,55,288,No,No,No
+I,Arbok,Poison,,60,85,69,65,79,80,438,No,No,No
+I,Pikachu,Electric,,35,55,40,50,50,90,320,No,No,No
+I,Raichu,Electric,,60,90,55,90,80,110,485,No,No,No
+I,Sandshrew,Ground,,50,75,85,20,30,40,300,No,No,No
+I,Sandslash,Ground,,75,100,110,45,55,65,450,No,No,No
+I,Nidoran♀,Poison,,55,47,52,40,40,41,275,No,No,No
+I,Nidorina,Poison,,70,62,67,55,55,56,365,No,No,No
+I,Nidoqueen,Poison,Ground,90,92,87,75,85,76,505,No,No,No
+I,Nidoran♂,Poison,,46,57,40,40,40,50,273,No,No,No
+I,Nidorino,Poison,,61,72,57,55,55,65,365,No,No,No
+I,Nidoking,Poison,Ground,81,102,77,85,75,85,505,No,No,No
+I,Clefairy,Fairy,,70,45,48,60,65,35,323,No,No,No
+I,Clefable,Fairy,,95,70,73,95,90,60,483,No,No,No
+I,Vulpix,Fire,,38,41,40,50,65,65,299,No,No,No
+I,Ninetales,Fire,,73,76,75,81,100,100,505,No,No,No
+I,Jigglypuff,Normal,Fairy,115,45,20,45,25,20,270,No,No,No
+I,Wigglytuff,Normal,Fairy,140,70,45,85,50,45,435,No,No,No
+I,Zubat,Poison,Flying,40,45,35,30,40,55,245,No,No,No
+I,Golbat,Poison,Flying,75,80,70,65,75,90,455,No,No,No
+I,Oddish,Grass,Poison,45,50,55,75,65,30,320,No,No,No
+I,Gloom,Grass,Poison,60,65,70,85,75,40,395,No,No,No
+I,Vileplume,Grass,Poison,75,80,85,110,90,50,490,No,No,No
+I,Paras,Bug,Grass,35,70,55,45,55,25,285,No,No,No
+I,Parasect,Bug,Grass,60,95,80,60,80,30,405,No,No,No
+I,Venonat,Bug,Poison,60,55,50,40,55,45,305,No,No,No
+I,Venomoth,Bug,Poison,70,65,60,90,75,90,450,No,No,No
+I,Diglett,Ground,,10,55,25,35,45,95,265,No,No,No
+I,Dugtrio,Ground,,35,80,50,50,70,120,405,No,No,No
+I,Meowth,Normal,,40,45,35,40,40,90,290,No,No,No
+I,Persian,Normal,,65,70,60,65,65,115,440,No,No,No
+I,Psyduck,Water,,50,52,48,65,50,55,320,No,No,No
+I,Golduck,Water,,80,82,78,95,80,85,500,No,No,No
+I,Mankey,Fighting,,40,80,35,35,45,70,305,No,No,No
+I,Primeape,Fighting,,65,105,60,60,70,95,455,No,No,No
+I,Growlithe,Fire,,55,70,45,70,50,60,350,No,No,No
+I,Arcanine,Fire,,90,110,80,100,80,95,555,No,No,No
+I,Poliwag,Water,,40,50,40,40,40,90,300,No,No,No
+I,Poliwhirl,Water,,65,65,65,50,50,90,385,No,No,No
+I,Poliwrath,Water,Fighting,90,95,95,70,90,70,510,No,No,No
+I,Abra,Psychic,,25,20,15,105,55,90,310,No,No,No
+I,Kadabra,Psychic,,40,35,30,120,70,105,400,No,No,No
+I,Alakazam,Psychic,,55,50,45,135,95,120,500,No,No,No
+I,AlakazamMega Alakazam,Psychic,,55,50,65,175,95,150,590,Yes,No,No
+I,Machop,Fighting,,70,80,50,35,35,35,305,No,No,No
+I,Machoke,Fighting,,80,100,70,50,60,45,405,No,No,No
+I,Machamp,Fighting,,90,130,80,65,85,55,505,No,No,No
+I,Bellsprout,Grass,Poison,50,75,35,70,30,40,300,No,No,No
+I,Weepinbell,Grass,Poison,65,90,50,85,45,55,390,No,No,No
+I,Victreebel,Grass,Poison,80,105,65,100,70,70,490,No,No,No
+I,Tentacool,Water,Poison,40,40,35,50,100,70,335,No,No,No
+I,Tentacruel,Water,Poison,80,70,65,80,120,100,515,No,No,No
+I,Geodude,Rock,Ground,40,80,100,30,30,20,300,No,No,No
+I,Graveler,Rock,Ground,55,95,115,45,45,35,390,No,No,No
+I,Golem,Rock,Ground,80,120,130,55,65,45,495,No,No,No
+I,Ponyta,Fire,,50,85,55,65,65,90,410,No,No,No
+I,Rapidash,Fire,,65,100,70,80,80,105,500,No,No,No
+I,Slowpoke,Water,Psychic,90,65,65,40,40,15,315,No,No,No
+I,Slowbro,Water,Psychic,95,75,110,100,80,30,490,No,No,No
+I,SlowbroMega Slowbro,Water,Psychic,95,75,180,130,80,30,590,Yes,No,No
+I,Magnemite,Electric,Steel,25,35,70,95,55,45,325,No,No,No
+I,Magneton,Electric,Steel,50,60,95,120,70,70,465,No,No,No
+I,Farfetch'd,Normal,Flying,52,65,55,58,62,60,352,No,No,No
+I,Doduo,Normal,Flying,35,85,45,35,35,75,310,No,No,No
+I,Dodrio,Normal,Flying,60,110,70,60,60,100,460,No,No,No
+I,Seel,Water,,65,45,55,45,70,45,325,No,No,No
+I,Dewgong,Water,Ice,90,70,80,70,95,70,475,No,No,No
+I,Grimer,Poison,,80,80,50,40,50,25,325,No,No,No
+I,Muk,Poison,,105,105,75,65,100,50,500,No,No,No
+I,Shellder,Water,,30,65,100,45,25,40,305,No,No,No
+I,Cloyster,Water,Ice,50,95,180,85,45,70,525,No,No,No
+I,Gastly,Ghost,Poison,30,35,30,100,35,80,310,No,No,No
+I,Haunter,Ghost,Poison,45,50,45,115,55,95,405,No,No,No
+I,Gengar,Ghost,Poison,60,65,60,130,75,110,500,No,No,No
+I,GengarMega Gengar,Ghost,Poison,60,65,80,170,95,130,600,Yes,No,No
+I,Onix,Rock,Ground,35,45,160,30,45,70,385,No,No,No
+I,Drowzee,Psychic,,60,48,45,43,90,42,328,No,No,No
+I,Hypno,Psychic,,85,73,70,73,115,67,483,No,No,No
+I,Krabby,Water,,30,105,90,25,25,50,325,No,No,No
+I,Kingler,Water,,55,130,115,50,50,75,475,No,No,No
+I,Voltorb,Electric,,40,30,50,55,55,100,330,No,No,No
+I,Electrode,Electric,,60,50,70,80,80,140,480,No,No,No
+I,Exeggcute,Grass,Psychic,60,40,80,60,45,40,325,No,No,No
+I,Exeggutor,Grass,Psychic,95,95,85,125,65,55,520,No,No,No
+I,Cubone,Ground,,50,50,95,40,50,35,320,No,No,No
+I,Marowak,Ground,,60,80,110,50,80,45,425,No,No,No
+I,Hitmonlee,Fighting,,50,120,53,35,110,87,455,No,No,No
+I,Hitmonchan,Fighting,,50,105,79,35,110,76,455,No,No,No
+I,Lickitung,Normal,,90,55,75,60,75,30,385,No,No,No
+I,Koffing,Poison,,40,65,95,60,45,35,340,No,No,No
+I,Weezing,Poison,,65,90,120,85,70,60,490,No,No,No
+I,Rhyhorn,Ground,Rock,80,85,95,30,30,25,345,No,No,No
+I,Rhydon,Ground,Rock,105,130,120,45,45,40,485,No,No,No
+I,Chansey,Normal,,250,5,5,35,105,50,450,No,No,No
+I,Tangela,Grass,,65,55,115,100,40,60,435,No,No,No
+I,Kangaskhan,Normal,,105,95,80,40,80,90,490,No,No,No
+I,KangaskhanMega Kangaskhan,Normal,,105,125,100,60,100,100,590,Yes,No,No
+I,Horsea,Water,,30,40,70,70,25,60,295,No,No,No
+I,Seadra,Water,,55,65,95,95,45,85,440,No,No,No
+I,Goldeen,Water,,45,67,60,35,50,63,320,No,No,No
+I,Seaking,Water,,80,92,65,65,80,68,450,No,No,No
+I,Staryu,Water,,30,45,55,70,55,85,340,No,No,No
+I,Starmie,Water,Psychic,60,75,85,100,85,115,520,No,No,No
+I,Mr. Mime,Psychic,Fairy,40,45,65,100,120,90,460,No,No,No
+I,Scyther,Bug,Flying,70,110,80,55,80,105,500,No,No,No
+I,Jynx,Ice,Psychic,65,50,35,115,95,95,455,No,No,No
+I,Electabuzz,Electric,,65,83,57,95,85,105,490,No,No,No
+I,Magmar,Fire,,65,95,57,100,85,93,495,No,No,No
+I,Pinsir,Bug,,65,125,100,55,70,85,500,No,No,No
+I,PinsirMega Pinsir,Bug,Flying,65,155,120,65,90,105,600,Yes,No,No
+I,Tauros,Normal,,75,100,95,40,70,110,490,No,No,No
+I,Magikarp,Water,,20,10,55,15,20,80,200,No,No,No
+I,Gyarados,Water,Flying,95,125,79,60,100,81,540,No,No,No
+I,GyaradosMega Gyarados,Water,Dark,95,155,109,70,130,81,640,Yes,No,No
+I,Lapras,Water,Ice,130,85,80,85,95,60,535,No,No,No
+I,Ditto,Normal,,48,48,48,48,48,48,288,No,No,No
+I,Eevee,Normal,,55,55,50,45,65,55,325,No,No,No
+I,Vaporeon,Water,,130,65,60,110,95,65,525,No,No,No
+I,Jolteon,Electric,,65,65,60,110,95,130,525,No,No,No
+I,Flareon,Fire,,65,130,60,95,110,65,525,No,No,No
+I,Porygon,Normal,,65,60,70,85,75,40,395,No,No,No
+I,Omanyte,Rock,Water,35,40,100,90,55,35,355,No,No,No
+I,Omastar,Rock,Water,70,60,125,115,70,55,495,No,No,No
+I,Kabuto,Rock,Water,30,80,90,55,45,55,355,No,No,No
+I,Kabutops,Rock,Water,60,115,105,65,70,80,495,No,No,No
+I,Aerodactyl,Rock,Flying,80,105,65,60,75,130,515,No,No,No
+I,AerodactylMega Aerodactyl,Rock,Flying,80,135,85,70,95,150,615,Yes,No,No
+I,Snorlax,Normal,,160,110,65,65,110,30,540,No,No,No
+I,Articuno,Ice,Flying,90,85,100,95,125,85,580,No,Yes,No
+I,Zapdos,Electric,Flying,90,90,85,125,90,100,580,No,Yes,No
+I,Moltres,Fire,Flying,90,100,90,125,85,90,580,No,Yes,No
+I,Dratini,Dragon,,41,64,45,50,50,50,300,No,No,No
+I,Dragonair,Dragon,,61,84,65,70,70,70,420,No,No,No
+I,Dragonite,Dragon,Flying,91,134,95,100,100,80,600,No,No,No
+I,Mewtwo,Psychic,,106,110,90,154,90,130,680,No,Yes,No
+I,MewtwoMega Mewtwo X,Psychic,Fighting,106,190,100,154,100,130,780,No,Yes,No
+I,MewtwoMega Mewtwo Y,Psychic,,106,150,70,194,120,140,780,No,Yes,No
+I,Mew,Psychic,,100,100,100,100,100,100,600,No,No,Yes
+II,Chikorita,Grass,,45,49,65,49,65,45,318,No,No,No
+II,Bayleef,Grass,,60,62,80,63,80,60,405,No,No,No
+II,Meganium,Grass,,80,82,100,83,100,80,525,No,No,No
+II,Cyndaquil,Fire,,39,52,43,60,50,65,309,No,No,No
+II,Quilava,Fire,,58,64,58,80,65,80,405,No,No,No
+II,Typhlosion,Fire,,78,84,78,109,85,100,534,No,No,No
+II,Totodile,Water,,50,65,64,44,48,43,314,No,No,No
+II,Croconaw,Water,,65,80,80,59,63,58,405,No,No,No
+II,Feraligatr,Water,,85,105,100,79,83,78,530,No,No,No
+II,Sentret,Normal,,35,46,34,35,45,20,215,No,No,No
+II,Furret,Normal,,85,76,64,45,55,90,415,No,No,No
+II,Hoothoot,Normal,Flying,60,30,30,36,56,50,262,No,No,No
+II,Noctowl,Normal,Flying,100,50,50,76,96,70,442,No,No,No
+II,Ledyba,Bug,Flying,40,20,30,40,80,55,265,No,No,No
+II,Ledian,Bug,Flying,55,35,50,55,110,85,390,No,No,No
+II,Spinarak,Bug,Poison,40,60,40,40,40,30,250,No,No,No
+II,Ariados,Bug,Poison,70,90,70,60,60,40,390,No,No,No
+II,Crobat,Poison,Flying,85,90,80,70,80,130,535,No,No,No
+II,Chinchou,Water,Electric,75,38,38,56,56,67,330,No,No,No
+II,Lanturn,Water,Electric,125,58,58,76,76,67,460,No,No,No
+II,Pichu,Electric,,20,40,15,35,35,60,205,No,No,No
+II,Cleffa,Fairy,,50,25,28,45,55,15,218,No,No,No
+II,Igglybuff,Normal,Fairy,90,30,15,40,20,15,210,No,No,No
+II,Togepi,Fairy,,35,20,65,40,65,20,245,No,No,No
+II,Togetic,Fairy,Flying,55,40,85,80,105,40,405,No,No,No
+II,Natu,Psychic,Flying,40,50,45,70,45,70,320,No,No,No
+II,Xatu,Psychic,Flying,65,75,70,95,70,95,470,No,No,No
+II,Mareep,Electric,,55,40,40,65,45,35,280,No,No,No
+II,Flaaffy,Electric,,70,55,55,80,60,45,365,No,No,No
+II,Ampharos,Electric,,90,75,85,115,90,55,510,No,No,No
+II,AmpharosMega Ampharos,Electric,Dragon,90,95,105,165,110,45,610,Yes,No,No
+II,Bellossom,Grass,,75,80,95,90,100,50,490,No,No,No
+II,Marill,Water,Fairy,70,20,50,20,50,40,250,No,No,No
+II,Azumarill,Water,Fairy,100,50,80,60,80,50,420,No,No,No
+II,Sudowoodo,Rock,,70,100,115,30,65,30,410,No,No,No
+II,Politoed,Water,,90,75,75,90,100,70,500,No,No,No
+II,Hoppip,Grass,Flying,35,35,40,35,55,50,250,No,No,No
+II,Skiploom,Grass,Flying,55,45,50,45,65,80,340,No,No,No
+II,Jumpluff,Grass,Flying,75,55,70,55,95,110,460,No,No,No
+II,Aipom,Normal,,55,70,55,40,55,85,360,No,No,No
+II,Sunkern,Grass,,30,30,30,30,30,30,180,No,No,No
+II,Sunflora,Grass,,75,75,55,105,85,30,425,No,No,No
+II,Yanma,Bug,Flying,65,65,45,75,45,95,390,No,No,No
+II,Wooper,Water,Ground,55,45,45,25,25,15,210,No,No,No
+II,Quagsire,Water,Ground,95,85,85,65,65,35,430,No,No,No
+II,Espeon,Psychic,,65,65,60,130,95,110,525,No,No,No
+II,Umbreon,Dark,,95,65,110,60,130,65,525,No,No,No
+II,Murkrow,Dark,Flying,60,85,42,85,42,91,405,No,No,No
+II,Slowking,Water,Psychic,95,75,80,100,110,30,490,No,No,No
+II,Misdreavus,Ghost,,60,60,60,85,85,85,435,No,No,No
+II,Unown,Psychic,,48,72,48,72,48,48,336,No,No,No
+II,Wobbuffet,Psychic,,190,33,58,33,58,33,405,No,No,No
+II,Girafarig,Normal,Psychic,70,80,65,90,65,85,455,No,No,No
+II,Pineco,Bug,,50,65,90,35,35,15,290,No,No,No
+II,Forretress,Bug,Steel,75,90,140,60,60,40,465,No,No,No
+II,Dunsparce,Normal,,100,70,70,65,65,45,415,No,No,No
+II,Gligar,Ground,Flying,65,75,105,35,65,85,430,No,No,No
+II,Steelix,Steel,Ground,75,85,200,55,65,30,510,No,No,No
+II,SteelixMega Steelix,Steel,Ground,75,125,230,55,95,30,610,Yes,No,No
+II,Snubbull,Fairy,,60,80,50,40,40,30,300,No,No,No
+II,Granbull,Fairy,,90,120,75,60,60,45,450,No,No,No
+II,Qwilfish,Water,Poison,65,95,75,55,55,85,430,No,No,No
+II,Scizor,Bug,Steel,70,130,100,55,80,65,500,No,No,No
+II,ScizorMega Scizor,Bug,Steel,70,150,140,65,100,75,600,Yes,No,No
+II,Shuckle,Bug,Rock,20,10,230,10,230,5,505,No,No,No
+II,Heracross,Bug,Fighting,80,125,75,40,95,85,500,No,No,No
+II,HeracrossMega Heracross,Bug,Fighting,80,185,115,40,105,75,600,Yes,No,No
+II,Sneasel,Dark,Ice,55,95,55,35,75,115,430,No,No,No
+II,Teddiursa,Normal,,60,80,50,50,50,40,330,No,No,No
+II,Ursaring,Normal,,90,130,75,75,75,55,500,No,No,No
+II,Slugma,Fire,,40,40,40,70,40,20,250,No,No,No
+II,Magcargo,Fire,Rock,50,50,120,80,80,30,410,No,No,No
+II,Swinub,Ice,Ground,50,50,40,30,30,50,250,No,No,No
+II,Piloswine,Ice,Ground,100,100,80,60,60,50,450,No,No,No
+II,Corsola,Water,Rock,55,55,85,65,85,35,380,No,No,No
+II,Remoraid,Water,,35,65,35,65,35,65,300,No,No,No
+II,Octillery,Water,,75,105,75,105,75,45,480,No,No,No
+II,Delibird,Ice,Flying,45,55,45,65,45,75,330,No,No,No
+II,Mantine,Water,Flying,65,40,70,80,140,70,465,No,No,No
+II,Skarmory,Steel,Flying,65,80,140,40,70,70,465,No,No,No
+II,Houndour,Dark,Fire,45,60,30,80,50,65,330,No,No,No
+II,Houndoom,Dark,Fire,75,90,50,110,80,95,500,No,No,No
+II,HoundoomMega Houndoom,Dark,Fire,75,90,90,140,90,115,600,Yes,No,No
+II,Kingdra,Water,Dragon,75,95,95,95,95,85,540,No,No,No
+II,Phanpy,Ground,,90,60,60,40,40,40,330,No,No,No
+II,Donphan,Ground,,90,120,120,60,60,50,500,No,No,No
+II,Porygon2,Normal,,85,80,90,105,95,60,515,No,No,No
+II,Stantler,Normal,,73,95,62,85,65,85,465,No,No,No
+II,Smeargle,Normal,,55,20,35,20,45,75,250,No,No,No
+II,Tyrogue,Fighting,,35,35,35,35,35,35,210,No,No,No
+II,Hitmontop,Fighting,,50,95,95,35,110,70,455,No,No,No
+II,Smoochum,Ice,Psychic,45,30,15,85,65,65,305,No,No,No
+II,Elekid,Electric,,45,63,37,65,55,95,360,No,No,No
+II,Magby,Fire,,45,75,37,70,55,83,365,No,No,No
+II,Miltank,Normal,,95,80,105,40,70,100,490,No,No,No
+II,Blissey,Normal,,255,10,10,75,135,55,540,No,No,No
+II,Raikou,Electric,,90,85,75,115,100,115,580,No,Yes,No
+II,Entei,Fire,,115,115,85,90,75,100,580,No,Yes,No
+II,Suicune,Water,,100,75,115,90,115,85,580,No,Yes,No
+II,Larvitar,Rock,Ground,50,64,50,45,50,41,300,No,No,No
+II,Pupitar,Rock,Ground,70,84,70,65,70,51,410,No,No,No
+II,Tyranitar,Rock,Dark,100,134,110,95,100,61,600,No,No,No
+II,TyranitarMega Tyranitar,Rock,Dark,100,164,150,95,120,71,700,Yes,No,No
+II,Lugia,Psychic,Flying,106,90,130,90,154,110,680,No,Yes,No
+II,Ho-oh,Fire,Flying,106,130,90,110,154,90,680,No,Yes,No
+II,Celebi,Psychic,Grass,100,100,100,100,100,100,600,No,No,Yes
+III,Treecko,Grass,,40,45,35,65,55,70,310,No,No,No
+III,Grovyle,Grass,,50,65,45,85,65,95,405,No,No,No
+III,Sceptile,Grass,,70,85,65,105,85,120,530,No,No,No
+III,SceptileMega Sceptile,Grass,Dragon,70,110,75,145,85,145,630,Yes,No,No
+III,Torchic,Fire,,45,60,40,70,50,45,310,No,No,No
+III,Combusken,Fire,Fighting,60,85,60,85,60,55,405,No,No,No
+III,Blaziken,Fire,Fighting,80,120,70,110,70,80,530,No,No,No
+III,BlazikenMega Blaziken,Fire,Fighting,80,160,80,130,80,100,630,Yes,No,No
+III,Mudkip,Water,,50,70,50,50,50,40,310,No,No,No
+III,Marshtomp,Water,Ground,70,85,70,60,70,50,405,No,No,No
+III,Swampert,Water,Ground,100,110,90,85,90,60,535,No,No,No
+III,SwampertMega Swampert,Water,Ground,100,150,110,95,110,70,635,Yes,No,No
+III,Poochyena,Dark,,35,55,35,30,30,35,220,No,No,No
+III,Mightyena,Dark,,70,90,70,60,60,70,420,No,No,No
+III,Zigzagoon,Normal,,38,30,41,30,41,60,240,No,No,No
+III,Linoone,Normal,,78,70,61,50,61,100,420,No,No,No
+III,Wurmple,Bug,,45,45,35,20,30,20,195,No,No,No
+III,Silcoon,Bug,,50,35,55,25,25,15,205,No,No,No
+III,Beautifly,Bug,Flying,60,70,50,100,50,65,395,No,No,No
+III,Cascoon,Bug,,50,35,55,25,25,15,205,No,No,No
+III,Dustox,Bug,Poison,60,50,70,50,90,65,385,No,No,No
+III,Lotad,Water,Grass,40,30,30,40,50,30,220,No,No,No
+III,Lombre,Water,Grass,60,50,50,60,70,50,340,No,No,No
+III,Ludicolo,Water,Grass,80,70,70,90,100,70,480,No,No,No
+III,Seedot,Grass,,40,40,50,30,30,30,220,No,No,No
+III,Nuzleaf,Grass,Dark,70,70,40,60,40,60,340,No,No,No
+III,Shiftry,Grass,Dark,90,100,60,90,60,80,480,No,No,No
+III,Taillow,Normal,Flying,40,55,30,30,30,85,270,No,No,No
+III,Swellow,Normal,Flying,60,85,60,50,50,125,430,No,No,No
+III,Wingull,Water,Flying,40,30,30,55,30,85,270,No,No,No
+III,Pelipper,Water,Flying,60,50,100,85,70,65,430,No,No,No
+III,Ralts,Psychic,Fairy,28,25,25,45,35,40,198,No,No,No
+III,Kirlia,Psychic,Fairy,38,35,35,65,55,50,278,No,No,No
+III,Gardevoir,Psychic,Fairy,68,65,65,125,115,80,518,No,No,No
+III,GardevoirMega Gardevoir,Psychic,Fairy,68,85,65,165,135,100,618,Yes,No,No
+III,Surskit,Bug,Water,40,30,32,50,52,65,269,No,No,No
+III,Masquerain,Bug,Flying,70,60,62,80,82,60,414,No,No,No
+III,Shroomish,Grass,,60,40,60,40,60,35,295,No,No,No
+III,Breloom,Grass,Fighting,60,130,80,60,60,70,460,No,No,No
+III,Slakoth,Normal,,60,60,60,35,35,30,280,No,No,No
+III,Vigoroth,Normal,,80,80,80,55,55,90,440,No,No,No
+III,Slaking,Normal,,150,160,100,95,65,100,670,No,No,No
+III,Nincada,Bug,Ground,31,45,90,30,30,40,266,No,No,No
+III,Ninjask,Bug,Flying,61,90,45,50,50,160,456,No,No,No
+III,Shedinja,Bug,Ghost,1,90,45,30,30,40,236,No,No,No
+III,Whismur,Normal,,64,51,23,51,23,28,240,No,No,No
+III,Loudred,Normal,,84,71,43,71,43,48,360,No,No,No
+III,Exploud,Normal,,104,91,63,91,73,68,490,No,No,No
+III,Makuhita,Fighting,,72,60,30,20,30,25,237,No,No,No
+III,Hariyama,Fighting,,144,120,60,40,60,50,474,No,No,No
+III,Azurill,Normal,Fairy,50,20,40,20,40,20,190,No,No,No
+III,Nosepass,Rock,,30,45,135,45,90,30,375,No,No,No
+III,Skitty,Normal,,50,45,45,35,35,50,260,No,No,No
+III,Delcatty,Normal,,70,65,65,55,55,70,380,No,No,No
+III,Sableye,Dark,Ghost,50,75,75,65,65,50,380,No,No,No
+III,SableyeMega Sableye,Dark,Ghost,50,85,125,85,115,20,480,Yes,No,No
+III,Mawile,Steel,Fairy,50,85,85,55,55,50,380,No,No,No
+III,MawileMega Mawile,Steel,Fairy,50,105,125,55,95,50,480,Yes,No,No
+III,Aron,Steel,Rock,50,70,100,40,40,30,330,No,No,No
+III,Lairon,Steel,Rock,60,90,140,50,50,40,430,No,No,No
+III,Aggron,Steel,Rock,70,110,180,60,60,50,530,No,No,No
+III,AggronMega Aggron,Steel,,70,140,230,60,80,50,630,Yes,No,No
+III,Meditite,Fighting,Psychic,30,40,55,40,55,60,280,No,No,No
+III,Medicham,Fighting,Psychic,60,60,75,60,75,80,410,No,No,No
+III,MedichamMega Medicham,Fighting,Psychic,60,100,85,80,85,100,510,Yes,No,No
+III,Electrike,Electric,,40,45,40,65,40,65,295,No,No,No
+III,Manectric,Electric,,70,75,60,105,60,105,475,No,No,No
+III,ManectricMega Manectric,Electric,,70,75,80,135,80,135,575,Yes,No,No
+III,Plusle,Electric,,60,50,40,85,75,95,405,No,No,No
+III,Minun,Electric,,60,40,50,75,85,95,405,No,No,No
+III,Volbeat,Bug,,65,73,55,47,75,85,400,No,No,No
+III,Illumise,Bug,,65,47,55,73,75,85,400,No,No,No
+III,Roselia,Grass,Poison,50,60,45,100,80,65,400,No,No,No
+III,Gulpin,Poison,,70,43,53,43,53,40,302,No,No,No
+III,Swalot,Poison,,100,73,83,73,83,55,467,No,No,No
+III,Carvanha,Water,Dark,45,90,20,65,20,65,305,No,No,No
+III,Sharpedo,Water,Dark,70,120,40,95,40,95,460,No,No,No
+III,SharpedoMega Sharpedo,Water,Dark,70,140,70,110,65,105,560,Yes,No,No
+III,Wailmer,Water,,130,70,35,70,35,60,400,No,No,No
+III,Wailord,Water,,170,90,45,90,45,60,500,No,No,No
+III,Numel,Fire,Ground,60,60,40,65,45,35,305,No,No,No
+III,Camerupt,Fire,Ground,70,100,70,105,75,40,460,No,No,No
+III,CameruptMega Camerupt,Fire,Ground,70,120,100,145,105,20,560,Yes,No,No
+III,Torkoal,Fire,,70,85,140,85,70,20,470,No,No,No
+III,Spoink,Psychic,,60,25,35,70,80,60,330,No,No,No
+III,Grumpig,Psychic,,80,45,65,90,110,80,470,No,No,No
+III,Spinda,Normal,,60,60,60,60,60,60,360,No,No,No
+III,Trapinch,Ground,,45,100,45,45,45,10,290,No,No,No
+III,Vibrava,Ground,Dragon,50,70,50,50,50,70,340,No,No,No
+III,Flygon,Ground,Dragon,80,100,80,80,80,100,520,No,No,No
+III,Cacnea,Grass,,50,85,40,85,40,35,335,No,No,No
+III,Cacturne,Grass,Dark,70,115,60,115,60,55,475,No,No,No
+III,Swablu,Normal,Flying,45,40,60,40,75,50,310,No,No,No
+III,Altaria,Dragon,Flying,75,70,90,70,105,80,490,No,No,No
+III,AltariaMega Altaria,Dragon,Fairy,75,110,110,110,105,80,590,Yes,No,No
+III,Zangoose,Normal,,73,115,60,60,60,90,458,No,No,No
+III,Seviper,Poison,,73,100,60,100,60,65,458,No,No,No
+III,Lunatone,Rock,Psychic,70,55,65,95,85,70,440,No,No,No
+III,Solrock,Rock,Psychic,70,95,85,55,65,70,440,No,No,No
+III,Barboach,Water,Ground,50,48,43,46,41,60,288,No,No,No
+III,Whiscash,Water,Ground,110,78,73,76,71,60,468,No,No,No
+III,Corphish,Water,,43,80,65,50,35,35,308,No,No,No
+III,Crawdaunt,Water,Dark,63,120,85,90,55,55,468,No,No,No
+III,Baltoy,Ground,Psychic,40,40,55,40,70,55,300,No,No,No
+III,Claydol,Ground,Psychic,60,70,105,70,120,75,500,No,No,No
+III,Lileep,Rock,Grass,66,41,77,61,87,23,355,No,No,No
+III,Cradily,Rock,Grass,86,81,97,81,107,43,495,No,No,No
+III,Anorith,Rock,Bug,45,95,50,40,50,75,355,No,No,No
+III,Armaldo,Rock,Bug,75,125,100,70,80,45,495,No,No,No
+III,Feebas,Water,,20,15,20,10,55,80,200,No,No,No
+III,Milotic,Water,,95,60,79,100,125,81,540,No,No,No
+III,Castform,Normal,,70,70,70,70,70,70,420,No,No,No
+III,Kecleon,Normal,,60,90,70,60,120,40,440,No,No,No
+III,Shuppet,Ghost,,44,75,35,63,33,45,295,No,No,No
+III,Banette,Ghost,,64,115,65,83,63,65,455,No,No,No
+III,BanetteMega Banette,Ghost,,64,165,75,93,83,75,555,Yes,No,No
+III,Duskull,Ghost,,20,40,90,30,90,25,295,No,No,No
+III,Dusclops,Ghost,,40,70,130,60,130,25,455,No,No,No
+III,Tropius,Grass,Flying,99,68,83,72,87,51,460,No,No,No
+III,Chimecho,Psychic,,65,50,70,95,80,65,425,No,No,No
+III,Absol,Dark,,65,130,60,75,60,75,465,No,No,No
+III,AbsolMega Absol,Dark,,65,150,60,115,60,115,565,Yes,No,No
+III,Wynaut,Psychic,,95,23,48,23,48,23,260,No,No,No
+III,Snorunt,Ice,,50,50,50,50,50,50,300,No,No,No
+III,Glalie,Ice,,80,80,80,80,80,80,480,No,No,No
+III,GlalieMega Glalie,Ice,,80,120,80,120,80,100,580,Yes,No,No
+III,Spheal,Ice,Water,70,40,50,55,50,25,290,No,No,No
+III,Sealeo,Ice,Water,90,60,70,75,70,45,410,No,No,No
+III,Walrein,Ice,Water,110,80,90,95,90,65,530,No,No,No
+III,Clamperl,Water,,35,64,85,74,55,32,345,No,No,No
+III,Huntail,Water,,55,104,105,94,75,52,485,No,No,No
+III,Gorebyss,Water,,55,84,105,114,75,52,485,No,No,No
+III,Relicanth,Water,Rock,100,90,130,45,65,55,485,No,No,No
+III,Luvdisc,Water,,43,30,55,40,65,97,330,No,No,No
+III,Bagon,Dragon,,45,75,60,40,30,50,300,No,No,No
+III,Shelgon,Dragon,,65,95,100,60,50,50,420,No,No,No
+III,Salamence,Dragon,Flying,95,135,80,110,80,100,600,No,No,No
+III,SalamenceMega Salamence,Dragon,Flying,95,145,130,120,90,120,700,Yes,No,No
+III,Beldum,Steel,Psychic,40,55,80,35,60,30,300,No,No,No
+III,Metang,Steel,Psychic,60,75,100,55,80,50,420,No,No,No
+III,Metagross,Steel,Psychic,80,135,130,95,90,70,600,No,No,No
+III,MetagrossMega Metagross,Steel,Psychic,80,145,150,105,110,110,700,Yes,No,No
+III,Regirock,Rock,,80,100,200,50,100,50,580,No,Yes,No
+III,Regice,Ice,,80,50,100,100,200,50,580,No,Yes,No
+III,Registeel,Steel,,80,75,150,75,150,50,580,No,Yes,No
+III,Latias,Dragon,Psychic,80,80,90,110,130,110,600,No,Yes,No
+III,LatiasMega Latias,Dragon,Psychic,80,100,120,140,150,110,700,Yes,Yes,No
+III,Latios,Dragon,Psychic,80,90,80,130,110,110,600,No,Yes,No
+III,LatiosMega Latios,Dragon,Psychic,80,130,100,160,120,110,700,Yes,Yes,No
+III,Kyogre,Water,,100,100,90,150,140,90,670,No,Yes,No
+III,KyogrePrimal Kyogre,Water,,100,150,90,180,160,90,770,Yes,Yes,No
+III,Groudon,Ground,,100,150,140,100,90,90,670,No,Yes,No
+III,GroudonPrimal Groudon,Ground,Fire,100,180,160,150,90,90,770,Yes,Yes,No
+III,Rayquaza,Dragon,Flying,105,150,90,150,90,95,680,No,Yes,No
+III,RayquazaMega Rayquaza,Dragon,Flying,105,180,100,180,100,115,780,Yes,Yes,No
+III,Jirachi,Steel,Psychic,100,100,100,100,100,100,600,No,No,Yes
+III,DeoxysNormal Forme,Psychic,,50,150,50,150,50,150,600,No,Yes,No
+III,DeoxysAttack Forme,Psychic,,50,180,20,180,20,150,600,No,Yes,No
+III,DeoxysDefense Forme,Psychic,,50,70,160,70,160,90,600,No,Yes,No
+III,DeoxysSpeed Forme,Psychic,,50,95,90,95,90,180,600,No,Yes,No
+IV,Turtwig,Grass,,55,68,64,45,55,31,318,No,No,No
+IV,Grotle,Grass,,75,89,85,55,65,36,405,No,No,No
+IV,Torterra,Grass,Ground,95,109,105,75,85,56,525,No,No,No
+IV,Chimchar,Fire,,44,58,44,58,44,61,309,No,No,No
+IV,Monferno,Fire,Fighting,64,78,52,78,52,81,405,No,No,No
+IV,Infernape,Fire,Fighting,76,104,71,104,71,108,534,No,No,No
+IV,Piplup,Water,,53,51,53,61,56,40,314,No,No,No
+IV,Prinplup,Water,,64,66,68,81,76,50,405,No,No,No
+IV,Empoleon,Water,Steel,84,86,88,111,101,60,530,No,No,No
+IV,Starly,Normal,Flying,40,55,30,30,30,60,245,No,No,No
+IV,Staravia,Normal,Flying,55,75,50,40,40,80,340,No,No,No
+IV,Staraptor,Normal,Flying,85,120,70,50,60,100,485,No,No,No
+IV,Bidoof,Normal,,59,45,40,35,40,31,250,No,No,No
+IV,Bibarel,Normal,Water,79,85,60,55,60,71,410,No,No,No
+IV,Kricketot,Bug,,37,25,41,25,41,25,194,No,No,No
+IV,Kricketune,Bug,,77,85,51,55,51,65,384,No,No,No
+IV,Shinx,Electric,,45,65,34,40,34,45,263,No,No,No
+IV,Luxio,Electric,,60,85,49,60,49,60,363,No,No,No
+IV,Luxray,Electric,,80,120,79,95,79,70,523,No,No,No
+IV,Budew,Grass,Poison,40,30,35,50,70,55,280,No,No,No
+IV,Roserade,Grass,Poison,60,70,65,125,105,90,515,No,No,No
+IV,Cranidos,Rock,,67,125,40,30,30,58,350,No,No,No
+IV,Rampardos,Rock,,97,165,60,65,50,58,495,No,No,No
+IV,Shieldon,Rock,Steel,30,42,118,42,88,30,350,No,No,No
+IV,Bastiodon,Rock,Steel,60,52,168,47,138,30,495,No,No,No
+IV,Burmy,Bug,,40,29,45,29,45,36,224,No,No,No
+IV,WormadamPlant Cloak,Bug,Grass,60,59,85,79,105,36,424,No,No,No
+IV,WormadamSandy Cloak,Bug,Ground,60,79,105,59,85,36,424,No,No,No
+IV,WormadamTrash Cloak,Bug,Steel,60,69,95,69,95,36,424,No,No,No
+IV,Mothim,Bug,Flying,70,94,50,94,50,66,424,No,No,No
+IV,Combee,Bug,Flying,30,30,42,30,42,70,244,No,No,No
+IV,Vespiquen,Bug,Flying,70,80,102,80,102,40,474,No,No,No
+IV,Pachirisu,Electric,,60,45,70,45,90,95,405,No,No,No
+IV,Buizel,Water,,55,65,35,60,30,85,330,No,No,No
+IV,Floatzel,Water,,85,105,55,85,50,115,495,No,No,No
+IV,Cherubi,Grass,,45,35,45,62,53,35,275,No,No,No
+IV,Cherrim,Grass,,70,60,70,87,78,85,450,No,No,No
+IV,Shellos,Water,,76,48,48,57,62,34,325,No,No,No
+IV,Gastrodon,Water,Ground,111,83,68,92,82,39,475,No,No,No
+IV,Ambipom,Normal,,75,100,66,60,66,115,482,No,No,No
+IV,Drifloon,Ghost,Flying,90,50,34,60,44,70,348,No,No,No
+IV,Drifblim,Ghost,Flying,150,80,44,90,54,80,498,No,No,No
+IV,Buneary,Normal,,55,66,44,44,56,85,350,No,No,No
+IV,Lopunny,Normal,,65,76,84,54,96,105,480,No,No,No
+IV,LopunnyMega Lopunny,Normal,Fighting,65,136,94,54,96,135,580,Yes,No,No
+IV,Mismagius,Ghost,,60,60,60,105,105,105,495,No,No,No
+IV,Honchkrow,Dark,Flying,100,125,52,105,52,71,505,No,No,No
+IV,Glameow,Normal,,49,55,42,42,37,85,310,No,No,No
+IV,Purugly,Normal,,71,82,64,64,59,112,452,No,No,No
+IV,Chingling,Psychic,,45,30,50,65,50,45,285,No,No,No
+IV,Stunky,Poison,Dark,63,63,47,41,41,74,329,No,No,No
+IV,Skuntank,Poison,Dark,103,93,67,71,61,84,479,No,No,No
+IV,Bronzor,Steel,Psychic,57,24,86,24,86,23,300,No,No,No
+IV,Bronzong,Steel,Psychic,67,89,116,79,116,33,500,No,No,No
+IV,Bonsly,Rock,,50,80,95,10,45,10,290,No,No,No
+IV,Mime Jr.,Psychic,Fairy,20,25,45,70,90,60,310,No,No,No
+IV,Happiny,Normal,,100,5,5,15,65,30,220,No,No,No
+IV,Chatot,Normal,Flying,76,65,45,92,42,91,411,No,No,No
+IV,Spiritomb,Ghost,Dark,50,92,108,92,108,35,485,No,No,No
+IV,Gible,Dragon,Ground,58,70,45,40,45,42,300,No,No,No
+IV,Gabite,Dragon,Ground,68,90,65,50,55,82,410,No,No,No
+IV,Garchomp,Dragon,Ground,108,130,95,80,85,102,600,No,No,No
+IV,GarchompMega Garchomp,Dragon,Ground,108,170,115,120,95,92,700,Yes,No,No
+IV,Munchlax,Normal,,135,85,40,40,85,5,390,No,No,No
+IV,Riolu,Fighting,,40,70,40,35,40,60,285,No,No,No
+IV,Lucario,Fighting,Steel,70,110,70,115,70,90,525,No,No,No
+IV,LucarioMega Lucario,Fighting,Steel,70,145,88,140,70,112,625,Yes,No,No
+IV,Hippopotas,Ground,,68,72,78,38,42,32,330,No,No,No
+IV,Hippowdon,Ground,,108,112,118,68,72,47,525,No,No,No
+IV,Skorupi,Poison,Bug,40,50,90,30,55,65,330,No,No,No
+IV,Drapion,Poison,Dark,70,90,110,60,75,95,500,No,No,No
+IV,Croagunk,Poison,Fighting,48,61,40,61,40,50,300,No,No,No
+IV,Toxicroak,Poison,Fighting,83,106,65,86,65,85,490,No,No,No
+IV,Carnivine,Grass,,74,100,72,90,72,46,454,No,No,No
+IV,Finneon,Water,,49,49,56,49,61,66,330,No,No,No
+IV,Lumineon,Water,,69,69,76,69,86,91,460,No,No,No
+IV,Mantyke,Water,Flying,45,20,50,60,120,50,345,No,No,No
+IV,Snover,Grass,Ice,60,62,50,62,60,40,334,No,No,No
+IV,Abomasnow,Grass,Ice,90,92,75,92,85,60,494,No,No,No
+IV,AbomasnowMega Abomasnow,Grass,Ice,90,132,105,132,105,30,594,Yes,No,No
+IV,Weavile,Dark,Ice,70,120,65,45,85,125,510,No,No,No
+IV,Magnezone,Electric,Steel,70,70,115,130,90,60,535,No,No,No
+IV,Lickilicky,Normal,,110,85,95,80,95,50,515,No,No,No
+IV,Rhyperior,Ground,Rock,115,140,130,55,55,40,535,No,No,No
+IV,Tangrowth,Grass,,100,100,125,110,50,50,535,No,No,No
+IV,Electivire,Electric,,75,123,67,95,85,95,540,No,No,No
+IV,Magmortar,Fire,,75,95,67,125,95,83,540,No,No,No
+IV,Togekiss,Fairy,Flying,85,50,95,120,115,80,545,No,No,No
+IV,Yanmega,Bug,Flying,86,76,86,116,56,95,515,No,No,No
+IV,Leafeon,Grass,,65,110,130,60,65,95,525,No,No,No
+IV,Glaceon,Ice,,65,60,110,130,95,65,525,No,No,No
+IV,Gliscor,Ground,Flying,75,95,125,45,75,95,510,No,No,No
+IV,Mamoswine,Ice,Ground,110,130,80,70,60,80,530,No,No,No
+IV,Porygon-Z,Normal,,85,80,70,135,75,90,535,No,No,No
+IV,Gallade,Psychic,Fighting,68,125,65,65,115,80,518,No,No,No
+IV,GalladeMega Gallade,Psychic,Fighting,68,165,95,65,115,110,618,Yes,No,No
+IV,Probopass,Rock,Steel,60,55,145,75,150,40,525,No,No,No
+IV,Dusknoir,Ghost,,45,100,135,65,135,45,525,No,No,No
+IV,Froslass,Ice,Ghost,70,80,70,80,70,110,480,No,No,No
+IV,Rotom,Electric,Ghost,50,50,77,95,77,91,440,No,No,No
+IV,RotomHeat Rotom,Electric,Fire,50,65,107,105,107,86,520,No,No,No
+IV,RotomWash Rotom,Electric,Water,50,65,107,105,107,86,520,No,No,No
+IV,RotomFrost Rotom,Electric,Ice,50,65,107,105,107,86,520,No,No,No
+IV,RotomFan Rotom,Electric,Flying,50,65,107,105,107,86,520,No,No,No
+IV,RotomMow Rotom,Electric,Grass,50,65,107,105,107,86,520,No,No,No
+IV,Uxie,Psychic,,75,75,130,75,130,95,580,No,Yes,No
+IV,Mesprit,Psychic,,80,105,105,105,105,80,580,No,Yes,No
+IV,Azelf,Psychic,,75,125,70,125,70,115,580,No,Yes,No
+IV,Dialga,Steel,Dragon,100,120,120,150,100,90,680,No,Yes,No
+IV,Palkia,Water,Dragon,90,120,100,150,120,100,680,No,Yes,No
+IV,Heatran,Fire,Steel,91,90,106,130,106,77,600,No,Yes,No
+IV,Regigigas,Normal,,110,160,110,80,110,100,670,No,Yes,No
+IV,GiratinaAltered Forme,Ghost,Dragon,150,100,120,100,120,90,680,No,Yes,No
+IV,GiratinaOrigin Forme,Ghost,Dragon,150,120,100,120,100,90,680,No,Yes,No
+IV,Cresselia,Psychic,,120,70,120,75,130,85,600,No,Yes,No
+IV,Phione,Water,,80,80,80,80,80,80,480,No,No,Yes
+IV,Manaphy,Water,,100,100,100,100,100,100,600,No,No,Yes
+IV,Darkrai,Dark,,70,90,90,135,90,125,600,No,No,Yes
+IV,ShayminLand Forme,Grass,,100,100,100,100,100,100,600,No,No,Yes
+IV,ShayminSky Forme,Grass,Flying,100,103,75,120,75,127,600,No,No,Yes
+IV,Arceus,Normal,,120,120,120,120,120,120,720,No,No,Yes
+V,Victini,Psychic,Fire,100,100,100,100,100,100,600,No,No,Yes
+V,Snivy,Grass,,45,45,55,45,55,63,308,No,No,No
+V,Servine,Grass,,60,60,75,60,75,83,413,No,No,No
+V,Serperior,Grass,,75,75,95,75,95,113,528,No,No,No
+V,Tepig,Fire,,65,63,45,45,45,45,308,No,No,No
+V,Pignite,Fire,Fighting,90,93,55,70,55,55,418,No,No,No
+V,Emboar,Fire,Fighting,110,123,65,100,65,65,528,No,No,No
+V,Oshawott,Water,,55,55,45,63,45,45,308,No,No,No
+V,Dewott,Water,,75,75,60,83,60,60,413,No,No,No
+V,Samurott,Water,,95,100,85,108,70,70,528,No,No,No
+V,Patrat,Normal,,45,55,39,35,39,42,255,No,No,No
+V,Watchog,Normal,,60,85,69,60,69,77,420,No,No,No
+V,Lillipup,Normal,,45,60,45,25,45,55,275,No,No,No
+V,Herdier,Normal,,65,80,65,35,65,60,370,No,No,No
+V,Stoutland,Normal,,85,110,90,45,90,80,500,No,No,No
+V,Purrloin,Dark,,41,50,37,50,37,66,281,No,No,No
+V,Liepard,Dark,,64,88,50,88,50,106,446,No,No,No
+V,Pansage,Grass,,50,53,48,53,48,64,316,No,No,No
+V,Simisage,Grass,,75,98,63,98,63,101,498,No,No,No
+V,Pansear,Fire,,50,53,48,53,48,64,316,No,No,No
+V,Simisear,Fire,,75,98,63,98,63,101,498,No,No,No
+V,Panpour,Water,,50,53,48,53,48,64,316,No,No,No
+V,Simipour,Water,,75,98,63,98,63,101,498,No,No,No
+V,Munna,Psychic,,76,25,45,67,55,24,292,No,No,No
+V,Musharna,Psychic,,116,55,85,107,95,29,487,No,No,No
+V,Pidove,Normal,Flying,50,55,50,36,30,43,264,No,No,No
+V,Tranquill,Normal,Flying,62,77,62,50,42,65,358,No,No,No
+V,Unfezant,Normal,Flying,80,115,80,65,55,93,488,No,No,No
+V,Blitzle,Electric,,45,60,32,50,32,76,295,No,No,No
+V,Zebstrika,Electric,,75,100,63,80,63,116,497,No,No,No
+V,Roggenrola,Rock,,55,75,85,25,25,15,280,No,No,No
+V,Boldore,Rock,,70,105,105,50,40,20,390,No,No,No
+V,Gigalith,Rock,,85,135,130,60,80,25,515,No,No,No
+V,Woobat,Psychic,Flying,55,45,43,55,43,72,313,No,No,No
+V,Swoobat,Psychic,Flying,67,57,55,77,55,114,425,No,No,No
+V,Drilbur,Ground,,60,85,40,30,45,68,328,No,No,No
+V,Excadrill,Ground,Steel,110,135,60,50,65,88,508,No,No,No
+V,Audino,Normal,,103,60,86,60,86,50,445,No,No,No
+V,AudinoMega Audino,Normal,Fairy,103,60,126,80,126,50,545,Yes,No,No
+V,Timburr,Fighting,,75,80,55,25,35,35,305,No,No,No
+V,Gurdurr,Fighting,,85,105,85,40,50,40,405,No,No,No
+V,Conkeldurr,Fighting,,105,140,95,55,65,45,505,No,No,No
+V,Tympole,Water,,50,50,40,50,40,64,294,No,No,No
+V,Palpitoad,Water,Ground,75,65,55,65,55,69,384,No,No,No
+V,Seismitoad,Water,Ground,105,95,75,85,75,74,509,No,No,No
+V,Throh,Fighting,,120,100,85,30,85,45,465,No,No,No
+V,Sawk,Fighting,,75,125,75,30,75,85,465,No,No,No
+V,Sewaddle,Bug,Grass,45,53,70,40,60,42,310,No,No,No
+V,Swadloon,Bug,Grass,55,63,90,50,80,42,380,No,No,No
+V,Leavanny,Bug,Grass,75,103,80,70,80,92,500,No,No,No
+V,Venipede,Bug,Poison,30,45,59,30,39,57,260,No,No,No
+V,Whirlipede,Bug,Poison,40,55,99,40,79,47,360,No,No,No
+V,Scolipede,Bug,Poison,60,100,89,55,69,112,485,No,No,No
+V,Cottonee,Grass,Fairy,40,27,60,37,50,66,280,No,No,No
+V,Whimsicott,Grass,Fairy,60,67,85,77,75,116,480,No,No,No
+V,Petilil,Grass,,45,35,50,70,50,30,280,No,No,No
+V,Lilligant,Grass,,70,60,75,110,75,90,480,No,No,No
+V,Basculin,Water,,70,92,65,80,55,98,460,No,No,No
+V,Sandile,Ground,Dark,50,72,35,35,35,65,292,No,No,No
+V,Krokorok,Ground,Dark,60,82,45,45,45,74,351,No,No,No
+V,Krookodile,Ground,Dark,95,117,80,65,70,92,519,No,No,No
+V,Darumaka,Fire,,70,90,45,15,45,50,315,No,No,No
+V,DarmanitanStandard Mode,Fire,,105,140,55,30,55,95,480,No,No,No
+V,DarmanitanZen Mode,Fire,Psychic,105,30,105,140,105,55,540,No,No,No
+V,Maractus,Grass,,75,86,67,106,67,60,461,No,No,No
+V,Dwebble,Bug,Rock,50,65,85,35,35,55,325,No,No,No
+V,Crustle,Bug,Rock,70,95,125,65,75,45,475,No,No,No
+V,Scraggy,Dark,Fighting,50,75,70,35,70,48,348,No,No,No
+V,Scrafty,Dark,Fighting,65,90,115,45,115,58,488,No,No,No
+V,Sigilyph,Psychic,Flying,72,58,80,103,80,97,490,No,No,No
+V,Yamask,Ghost,,38,30,85,55,65,30,303,No,No,No
+V,Cofagrigus,Ghost,,58,50,145,95,105,30,483,No,No,No
+V,Tirtouga,Water,Rock,54,78,103,53,45,22,355,No,No,No
+V,Carracosta,Water,Rock,74,108,133,83,65,32,495,No,No,No
+V,Archen,Rock,Flying,55,112,45,74,45,70,401,No,No,No
+V,Archeops,Rock,Flying,75,140,65,112,65,110,567,No,No,No
+V,Trubbish,Poison,,50,50,62,40,62,65,329,No,No,No
+V,Garbodor,Poison,,80,95,82,60,82,75,474,No,No,No
+V,Zorua,Dark,,40,65,40,80,40,65,330,No,No,No
+V,Zoroark,Dark,,60,105,60,120,60,105,510,No,No,No
+V,Minccino,Normal,,55,50,40,40,40,75,300,No,No,No
+V,Cinccino,Normal,,75,95,60,65,60,115,470,No,No,No
+V,Gothita,Psychic,,45,30,50,55,65,45,290,No,No,No
+V,Gothorita,Psychic,,60,45,70,75,85,55,390,No,No,No
+V,Gothitelle,Psychic,,70,55,95,95,110,65,490,No,No,No
+V,Solosis,Psychic,,45,30,40,105,50,20,290,No,No,No
+V,Duosion,Psychic,,65,40,50,125,60,30,370,No,No,No
+V,Reuniclus,Psychic,,110,65,75,125,85,30,490,No,No,No
+V,Ducklett,Water,Flying,62,44,50,44,50,55,305,No,No,No
+V,Swanna,Water,Flying,75,87,63,87,63,98,473,No,No,No
+V,Vanillite,Ice,,36,50,50,65,60,44,305,No,No,No
+V,Vanillish,Ice,,51,65,65,80,75,59,395,No,No,No
+V,Vanilluxe,Ice,,71,95,85,110,95,79,535,No,No,No
+V,Deerling,Normal,Grass,60,60,50,40,50,75,335,No,No,No
+V,Sawsbuck,Normal,Grass,80,100,70,60,70,95,475,No,No,No
+V,Emolga,Electric,Flying,55,75,60,75,60,103,428,No,No,No
+V,Karrablast,Bug,,50,75,45,40,45,60,315,No,No,No
+V,Escavalier,Bug,Steel,70,135,105,60,105,20,495,No,No,No
+V,Foongus,Grass,Poison,69,55,45,55,55,15,294,No,No,No
+V,Amoonguss,Grass,Poison,114,85,70,85,80,30,464,No,No,No
+V,Frillish,Water,Ghost,55,40,50,65,85,40,335,No,No,No
+V,Jellicent,Water,Ghost,100,60,70,85,105,60,480,No,No,No
+V,Alomomola,Water,,165,75,80,40,45,65,470,No,No,No
+V,Joltik,Bug,Electric,50,47,50,57,50,65,319,No,No,No
+V,Galvantula,Bug,Electric,70,77,60,97,60,108,472,No,No,No
+V,Ferroseed,Grass,Steel,44,50,91,24,86,10,305,No,No,No
+V,Ferrothorn,Grass,Steel,74,94,131,54,116,20,489,No,No,No
+V,Klink,Steel,,40,55,70,45,60,30,300,No,No,No
+V,Klang,Steel,,60,80,95,70,85,50,440,No,No,No
+V,Klinklang,Steel,,60,100,115,70,85,90,520,No,No,No
+V,Tynamo,Electric,,35,55,40,45,40,60,275,No,No,No
+V,Eelektrik,Electric,,65,85,70,75,70,40,405,No,No,No
+V,Eelektross,Electric,,85,115,80,105,80,50,515,No,No,No
+V,Elgyem,Psychic,,55,55,55,85,55,30,335,No,No,No
+V,Beheeyem,Psychic,,75,75,75,125,95,40,485,No,No,No
+V,Litwick,Ghost,Fire,50,30,55,65,55,20,275,No,No,No
+V,Lampent,Ghost,Fire,60,40,60,95,60,55,370,No,No,No
+V,Chandelure,Ghost,Fire,60,55,90,145,90,80,520,No,No,No
+V,Axew,Dragon,,46,87,60,30,40,57,320,No,No,No
+V,Fraxure,Dragon,,66,117,70,40,50,67,410,No,No,No
+V,Haxorus,Dragon,,76,147,90,60,70,97,540,No,No,No
+V,Cubchoo,Ice,,55,70,40,60,40,40,305,No,No,No
+V,Beartic,Ice,,95,110,80,70,80,50,485,No,No,No
+V,Cryogonal,Ice,,70,50,30,95,135,105,485,No,No,No
+V,Shelmet,Bug,,50,40,85,40,65,25,305,No,No,No
+V,Accelgor,Bug,,80,70,40,100,60,145,495,No,No,No
+V,Stunfisk,Ground,Electric,109,66,84,81,99,32,471,No,No,No
+V,Mienfoo,Fighting,,45,85,50,55,50,65,350,No,No,No
+V,Mienshao,Fighting,,65,125,60,95,60,105,510,No,No,No
+V,Druddigon,Dragon,,77,120,90,60,90,48,485,No,No,No
+V,Golett,Ground,Ghost,59,74,50,35,50,35,303,No,No,No
+V,Golurk,Ground,Ghost,89,124,80,55,80,55,483,No,No,No
+V,Pawniard,Dark,Steel,45,85,70,40,40,60,340,No,No,No
+V,Bisharp,Dark,Steel,65,125,100,60,70,70,490,No,No,No
+V,Bouffalant,Normal,,95,110,95,40,95,55,490,No,No,No
+V,Rufflet,Normal,Flying,70,83,50,37,50,60,350,No,No,No
+V,Braviary,Normal,Flying,100,123,75,57,75,80,510,No,No,No
+V,Vullaby,Dark,Flying,70,55,75,45,65,60,370,No,No,No
+V,Mandibuzz,Dark,Flying,110,65,105,55,95,80,510,No,No,No
+V,Heatmor,Fire,,85,97,66,105,66,65,484,No,No,No
+V,Durant,Bug,Steel,58,109,112,48,48,109,484,No,No,No
+V,Deino,Dark,Dragon,52,65,50,45,50,38,300,No,No,No
+V,Zweilous,Dark,Dragon,72,85,70,65,70,58,420,No,No,No
+V,Hydreigon,Dark,Dragon,92,105,90,125,90,98,600,No,No,No
+V,Larvesta,Bug,Fire,55,85,55,50,55,60,360,No,No,No
+V,Volcarona,Bug,Fire,85,60,65,135,105,100,550,No,No,No
+V,Cobalion,Steel,Fighting,91,90,129,90,72,108,580,No,Yes,No
+V,Terrakion,Rock,Fighting,91,129,90,72,90,108,580,No,Yes,No
+V,Virizion,Grass,Fighting,91,90,72,90,129,108,580,No,Yes,No
+V,TornadusIncarnate Forme,Flying,,79,115,70,125,80,111,580,No,Yes,No
+V,TornadusTherian Forme,Flying,,79,100,80,110,90,121,580,No,Yes,No
+V,ThundurusIncarnate Forme,Electric,Flying,79,115,70,125,80,111,580,No,Yes,No
+V,ThundurusTherian Forme,Electric,Flying,79,105,70,145,80,101,580,No,Yes,No
+V,Reshiram,Dragon,Fire,100,120,100,150,120,90,680,No,Yes,No
+V,Zekrom,Dragon,Electric,100,150,120,120,100,90,680,No,Yes,No
+V,LandorusIncarnate Forme,Ground,Flying,89,125,90,115,80,101,600,No,Yes,No
+V,LandorusTherian Forme,Ground,Flying,89,145,90,105,80,91,600,No,Yes,No
+V,Kyurem,Dragon,Ice,125,130,90,130,90,95,660,No,Yes,No
+V,KyuremBlack Kyurem,Dragon,Ice,125,170,100,120,90,95,700,No,Yes,No
+V,KyuremWhite Kyurem,Dragon,Ice,125,120,90,170,100,95,700,No,Yes,No
+V,KeldeoOrdinary Forme,Water,Fighting,91,72,90,129,90,108,580,No,No,Yes
+V,KeldeoResolute Forme,Water,Fighting,91,72,90,129,90,108,580,No,No,Yes
+V,MeloettaAria Forme,Normal,Psychic,100,77,77,128,128,90,600,No,No,Yes
+V,MeloettaPirouette Forme,Normal,Fighting,100,128,90,77,77,128,600,No,No,Yes
+V,Genesect,Bug,Steel,71,120,95,120,95,99,600,No,No,Yes
+VI,Chespin,Grass,,56,61,65,48,45,38,313,No,No,No
+VI,Quilladin,Grass,,61,78,95,56,58,57,405,No,No,No
+VI,Chesnaught,Grass,Fighting,88,107,122,74,75,64,530,No,No,No
+VI,Fennekin,Fire,,40,45,40,62,60,60,307,No,No,No
+VI,Braixen,Fire,,59,59,58,90,70,73,409,No,No,No
+VI,Delphox,Fire,Psychic,75,69,72,114,100,104,534,No,No,No
+VI,Froakie,Water,,41,56,40,62,44,71,314,No,No,No
+VI,Frogadier,Water,,54,63,52,83,56,97,405,No,No,No
+VI,Greninja,Water,Dark,72,95,67,103,71,122,530,No,No,No
+VI,Bunnelby,Normal,,38,36,38,32,36,57,237,No,No,No
+VI,Diggersby,Normal,Ground,85,56,77,50,77,78,423,No,No,No
+VI,Fletchling,Normal,Flying,45,50,43,40,38,62,278,No,No,No
+VI,Fletchinder,Fire,Flying,62,73,55,56,52,84,382,No,No,No
+VI,Talonflame,Fire,Flying,78,81,71,74,69,126,499,No,No,No
+VI,Scatterbug,Bug,,38,35,40,27,25,35,200,No,No,No
+VI,Spewpa,Bug,,45,22,60,27,30,29,213,No,No,No
+VI,Vivillon,Bug,Flying,80,52,50,90,50,89,411,No,No,No
+VI,Litleo,Fire,Normal,62,50,58,73,54,72,369,No,No,No
+VI,Pyroar,Fire,Normal,86,68,72,109,66,106,507,No,No,No
+VI,Flabebe,Fairy,,44,38,39,61,79,42,303,No,No,No
+VI,Floette,Fairy,,54,45,47,75,98,52,371,No,No,No
+VI,Florges,Fairy,,78,65,68,112,154,75,552,No,No,No
+VI,Skiddo,Grass,,66,65,48,62,57,52,350,No,No,No
+VI,Gogoat,Grass,,123,100,62,97,81,68,531,No,No,No
+VI,Pancham,Fighting,,67,82,62,46,48,43,348,No,No,No
+VI,Pangoro,Fighting,Dark,95,124,78,69,71,58,495,No,No,No
+VI,Furfrou,Normal,,75,80,60,65,90,102,472,No,No,No
+VI,Espurr,Psychic,,62,48,54,63,60,68,355,No,No,No
+VI,MeowsticMale,Psychic,,74,48,76,83,81,104,466,No,No,No
+VI,MeowsticFemale,Psychic,,74,48,76,83,81,104,466,No,No,No
+VI,Honedge,Steel,Ghost,45,80,100,35,37,28,325,No,No,No
+VI,Doublade,Steel,Ghost,59,110,150,45,49,35,448,No,No,No
+VI,AegislashBlade Forme,Steel,Ghost,60,150,50,150,50,60,520,No,No,No
+VI,AegislashShield Forme,Steel,Ghost,60,50,150,50,150,60,520,No,No,No
+VI,Spritzee,Fairy,,78,52,60,63,65,23,341,No,No,No
+VI,Aromatisse,Fairy,,101,72,72,99,89,29,462,No,No,No
+VI,Swirlix,Fairy,,62,48,66,59,57,49,341,No,No,No
+VI,Slurpuff,Fairy,,82,80,86,85,75,72,480,No,No,No
+VI,Inkay,Dark,Psychic,53,54,53,37,46,45,288,No,No,No
+VI,Malamar,Dark,Psychic,86,92,88,68,75,73,482,No,No,No
+VI,Binacle,Rock,Water,42,52,67,39,56,50,306,No,No,No
+VI,Barbaracle,Rock,Water,72,105,115,54,86,68,500,No,No,No
+VI,Skrelp,Poison,Water,50,60,60,60,60,30,320,No,No,No
+VI,Dragalge,Poison,Dragon,65,75,90,97,123,44,494,No,No,No
+VI,Clauncher,Water,,50,53,62,58,63,44,330,No,No,No
+VI,Clawitzer,Water,,71,73,88,120,89,59,500,No,No,No
+VI,Helioptile,Electric,Normal,44,38,33,61,43,70,289,No,No,No
+VI,Heliolisk,Electric,Normal,62,55,52,109,94,109,481,No,No,No
+VI,Tyrunt,Rock,Dragon,58,89,77,45,45,48,362,No,No,No
+VI,Tyrantrum,Rock,Dragon,82,121,119,69,59,71,521,No,No,No
+VI,Amaura,Rock,Ice,77,59,50,67,63,46,362,No,No,No
+VI,Aurorus,Rock,Ice,123,77,72,99,92,58,521,No,No,No
+VI,Sylveon,Fairy,,95,65,65,110,130,60,525,No,No,No
+VI,Hawlucha,Fighting,Flying,78,92,75,74,63,118,500,No,No,No
+VI,Dedenne,Electric,Fairy,67,58,57,81,67,101,431,No,No,No
+VI,Carbink,Rock,Fairy,50,50,150,50,150,50,500,No,No,No
+VI,Goomy,Dragon,,45,50,35,55,75,40,300,No,No,No
+VI,Sliggoo,Dragon,,68,75,53,83,113,60,452,No,No,No
+VI,Goodra,Dragon,,90,100,70,110,150,80,600,No,No,No
+VI,Klefki,Steel,Fairy,57,80,91,80,87,75,470,No,No,No
+VI,Phantump,Ghost,Grass,43,70,48,50,60,38,309,No,No,No
+VI,Trevenant,Ghost,Grass,85,110,76,65,82,56,474,No,No,No
+VI,PumpkabooAverage Size,Ghost,Grass,49,66,70,44,55,51,335,No,No,No
+VI,PumpkabooSmall Size,Ghost,Grass,44,66,70,44,55,56,335,No,No,No
+VI,PumpkabooLarge Size,Ghost,Grass,54,66,70,44,55,46,335,No,No,No
+VI,PumpkabooSuper Size,Ghost,Grass,59,66,70,44,55,41,335,No,No,No
+VI,GourgeistAverage Size,Ghost,Grass,65,90,122,58,75,84,494,No,No,No
+VI,GourgeistSmall Size,Ghost,Grass,55,85,122,58,75,99,494,No,No,No
+VI,GourgeistLarge Size,Ghost,Grass,75,95,122,58,75,69,494,No,No,No
+VI,GourgeistSuper Size,Ghost,Grass,85,100,122,58,75,54,494,No,No,No
+VI,Bergmite,Ice,,55,69,85,32,35,28,304,No,No,No
+VI,Avalugg,Ice,,95,117,184,44,46,28,514,No,No,No
+VI,Noibat,Flying,Dragon,40,30,35,45,40,55,245,No,No,No
+VI,Noivern,Flying,Dragon,85,70,80,97,80,123,535,No,No,No
+VI,Xerneas,Fairy,,126,131,95,131,98,99,680,No,Yes,No
+VI,Yveltal,Dark,Flying,126,131,95,131,98,99,680,No,Yes,No
+VI,Zygarde10%Forme,Dragon,Ground,54,100,71,61,85,115,486,No,Yes,No
+VI,Zygarde50% Forme,Dragon,Ground,108,100,121,81,95,95,600,No,Yes,No
+VI,ZygardeComplete,Dragon,Ground,216,100,121,91,95,85,708,No,Yes,No
+VI,Diancie,Rock,Fairy,50,100,150,100,150,50,600,No,No,Yes
+VI,DiancieMega Diancie,Rock,Fairy,50,160,110,160,110,110,700,Yes,No,Yes
+VI,HoopaHoopa Confined,Psychic,Ghost,80,110,60,150,130,70,600,No,No,Yes
+VI,HoopaHoopa Unbound,Psychic,Dark,80,160,60,170,130,80,680,No,No,Yes
+VI,Volcanion,Fire,Water,80,110,120,130,90,70,600,No,No,Yes
+VII,Rowlet,Grass,Flying,68,55,55,50,50,42,320,No,No,No
+VII,Dartrix,Grass,Flying,78,75,75,70,70,52,420,No,No,No
+VII,Decidueye,Grass,Ghost,78,107,75,100,100,70,530,No,No,No
+VII,Litten,Fire,,45,65,40,60,40,70,320,No,No,No
+VII,Torracat,Fire,,65,85,50,80,50,90,420,No,No,No
+VII,Incineroar,Fire,Dark,95,115,90,80,90,60,530,No,No,No
+VII,Popplio,Water,,50,54,54,66,56,40,320,No,No,No
+VII,Brionne,Water,,60,69,69,91,81,50,420,No,No,No
+VII,Primarina,Water,Fairy,80,74,74,126,116,60,530,No,No,No
+VII,Pikipek,Normal,Flying,35,75,30,30,30,65,265,No,No,No
+VII,Trumbeak,Normal,Flying,55,85,50,40,50,75,355,No,No,No
+VII,Toucannon,Normal,Flying,80,120,75,75,75,60,485,No,No,No
+VII,Yungoos,Normal,,48,70,30,30,30,45,253,No,No,No
+VII,Gumshoos,Normal,,88,110,60,55,60,45,418,No,No,No
+VII,Grubbin,Bug,,47,62,45,55,45,46,300,No,No,No
+VII,Charjabug,Bug,Electric,57,82,95,55,75,36,400,No,No,No
+VII,Vikavolt,Bug,Electric,77,70,90,145,75,43,500,No,No,No
+VII,Crabrawler,Fighting,,47,82,57,42,47,63,338,No,No,No
+VII,Crabominable,Fighting,Ice,97,132,77,62,67,43,478,No,No,No
+VII,Oricorio,Fire,Flying,,,,,,,0,No,No,No
+VII,Cutiefly,Bug,Fairy,,,,,,,0,No,No,No
+VII,Ribombee,Bug,Fairy,,,,,,,0,No,No,No
+VII,Rockruff,Rock,,,,,,,,0,No,No,No
+VII,Lycanroc,Rock,,,,,,,,0,No,No,No
+VII,Wishiwashi,Water,,,,,,,,0,No,No,No
+VII,Wishiwashi-School,Water,,,,,,,,0,No,No,No
+VII,Mareanie,Poison,Water,,,,,,,0,No,No,No
+VII,Toxapex,Poison,Water,,,,,,,0,No,No,No
+VII,Mudbray,Ground,,,,,,,,0,No,No,No
+VII,Mudsdale,Ground,,,,,,,,0,No,No,No
+VII,Dewpider,Water,Bug,,,,,,,0,No,No,No
+VII,Araquanid,Water,Bug,,,,,,,0,No,No,No
+VII,Formantis,Grass,,,,,,,,0,No,No,No
+VII,Lurantis,Grass,,,,,,,,0,No,No,No
+VII,Morelull,Grass,Fairy,,,,,,,0,No,No,No
+VII,Shiinotic,Grass,Fairy,,,,,,,0,No,No,No
+VII,Salandit,Poison,Fire,,,,,,,0,No,No,No
+VII,Salazzle,Poison,Fire,,,,,,,0,No,No,No
+VII,Stufful,Normal,Fighting,,,,,,,0,No,No,No
+VII,Bewear,Normal,Fighting,,,,,,,0,No,No,No
+VII,Bounsweet,Grass,,,,,,,,0,No,No,No
+VII,Steenee,Grass,,,,,,,,0,No,No,No
+VII,Tsareena,Grass,,,,,,,,0,No,No,No
+VII,Comfey,Fairy,,,,,,,,0,No,No,No
+VII,Oranguru,Normal,Psychic,,,,,,,0,No,No,No
+VII,Passimian,Fighting,,,,,,,,0,No,No,No
+VII,Wimpod,Bug,Water,,,,,,,0,No,No,No
+VII,Golisopod,Bug,Water,,,,,,,0,No,No,No
+VII,Sandygast,Ghost,Ground,,,,,,,0,No,No,No
+VII,Palossand,Ghost,Ground,,,,,,,0,No,No,No
+VII,Pyukumuku,Water,,,,,,,,0,No,No,No
+VII,Type: Null,Normal,,,,,,,,0,No,No,No
+VII,Silvally,Normal,,,,,,,,0,No,No,No
+VII,Minior,Rock,Flying,,,,,,,0,No,No,No
+VII,Komala,Normal,,,,,,,,0,No,No,No
+VII,Turtonator,Fire,Dragon,,,,,,,0,No,No,No
+VII,Togedemaru,Electric,Steel,,,,,,,0,No,No,No
+VII,Mimikyu,Ghost,Fairy,,,,,,,0,No,No,No
+VII,Bruxish,Water,Psychic,,,,,,,0,No,No,No
+VII,Drampa,Normal,Dragon,,,,,,,0,No,No,No
+VII,Dhelmise,Ghost,Grass,,,,,,,0,No,No,No
+VII,Jangmo-o,Dragon,,,,,,,,0,No,No,No
+VII,Hakamo-o,Dragon,Fighting,,,,,,,0,No,No,No
+VII,Kommo-o,Dragon,Fighting,,,,,,,0,No,No,No
+VII,Tapu Koko,Electric,Fairy,,,,,,,0,No,Yes,No
+VII,Tapu Lele,Psychic,Fairy,,,,,,,0,No,Yes,No
+VII,Tapu Bulu,Grass,Fairy,,,,,,,0,No,Yes,No
+VII,Tapu Fini,Water,Fairy,,,,,,,0,No,Yes,No
+VII,Cosmog,Psychic,,,,,,,,0,No,Yes,No
+VII,Cosmoem,Psychic,,,,,,,,0,No,Yes,No
+VII,Solgaleo,Psychic,Steel,,,,,,,0,No,Yes,No
+VII,Lunala,Psychic,Ghost,,,,,,,0,No,Yes,No
+VII,Nihilego,Rock,Poison,,,,,,,0,No,No,No
+VII,Buzzwole,Bug,Fighting,,,,,,,0,No,No,No
+VII,Pheromosa,Bug,Fighting,,,,,,,0,No,No,No
+VII,Xurkitree,Electric,,,,,,,,0,No,No,No
+VII,Celesteela,Steel,Flying,,,,,,,0,No,No,No
+VII,Kartana,Grass,Steel,,,,,,,0,No,No,No
+VII,Guzzlord,Dark,Dragon,,,,,,,0,No,No,No
+VII,Necrozma,Psychic,,,,,,,,0,No,Yes,No
+VII,Necrozma-Dusk Mane,Psychic,Steel,,,,,,,0,No,Yes,No
+VII,Necrozma-Dawn Wings,Psychic,Ghost,,,,,,,0,No,Yes,No
+VII,Necrozma-Ultra Necrozma,Psychic,Dragon,,,,,,,0,No,Yes,No
+VII,Magearna,Steel,Fairy,,,,,,,0,No,No,Yes
+VII,Marshadow,Fighting,Ghost,,,,,,,0,No,No,Yes
+VII,Poipole,Poison,,,,,,,,0,No,No,No
+VII,Naganadel,Poison,Dragon,,,,,,,0,No,No,No
+VII,Stakataka,Rock,Steel,,,,,,,0,No,No,No
+VII,Blacephalon,Fire,Ghost,,,,,,,0,No,No,No
+VII,Zeraora,Electric,,,,,,,,0,No,No,Yes
+VII,Meltan,Steel,,,,,,,,0,No,No,Yes
+VII,Melmetal,Steel,,,,,,,,0,No,No,Yes
+VIII,Grookey,Grass,,,,,,,,0,No,No,No
+VIII,Thwackey,Grass,,,,,,,,0,No,No,No
+VIII,Rillaboom,Grass,,,,,,,,0,No,No,No
+VIII,Scorbunny,Fire,,,,,,,,0,No,No,No
+VIII,Raboot,Fire,,,,,,,,0,No,No,No
+VIII,Cinderace,Fire,,,,,,,,0,No,No,No
+VIII,Sobble,Water,,,,,,,,0,No,No,No
+VIII,Drizzile,Water,,,,,,,,0,No,No,No
+VIII,Inteleon,Water,,,,,,,,0,No,No,No
+VIII,Skwovet,Normal,,,,,,,,0,No,No,No
+VIII,Greedent,Normal,,,,,,,,0,No,No,No
+VIII,Rookidee,Flying,,,,,,,,0,No,No,No
+VIII,Corvisquire,Flying,,,,,,,,0,No,No,No
+VIII,Corviknight,Flying,Steel,,,,,,,0,No,No,No
+VIII,Blipbug,Bug,,,,,,,,0,No,No,No
+VIII,Dottler,Bug,Psychic,,,,,,,0,No,No,No
+VIII,Orbeetle,Bug,Psychic,,,,,,,0,No,No,No
+VIII,Nickit,Dark,,,,,,,,0,No,No,No
+VIII,Thievul,Dark,,,,,,,,0,No,No,No
+VIII,Gossifleur,Grass,,,,,,,,0,No,No,No
+VIII,Eldegoss,Grass,,,,,,,,0,No,No,No
+VIII,Wooloo,Normal,,,,,,,,0,No,No,No
+VIII,Dubwool,Normal,,,,,,,,0,No,No,No
+VIII,Chewtle,Water,,,,,,,,0,No,No,No
+VIII,Drednaw,Water,Rock,,,,,,,0,No,No,No
+VIII,Yamper,Electric,,,,,,,,0,No,No,No
+VIII,Boltund,Electric,,,,,,,,0,No,No,No
+VIII,Rolycoly,Rock,,,,,,,,0,No,No,No
+VIII,Carkol,Rock,Fire,,,,,,,0,No,No,No
+VIII,Coalossal,Rock,Fire,,,,,,,0,No,No,No
+VIII,Applin,Grass,Dragon,,,,,,,0,No,No,No
+VIII,Flapple,Grass,Dragon,,,,,,,0,No,No,No
+VIII,Silicobra,Ground,,,,,,,,0,No,No,No
+VIII,Sandaconda,Ground,,,,,,,,0,No,No,No
+VIII,Cramorant,Flying,Water,,,,,,,0,No,No,No
+VIII,Arrokuda,Water,,,,,,,,0,No,No,No
+VIII,Barraskewda,Water,,,,,,,,0,No,No,No
+VIII,Toxel,Electric,Poison,,,,,,,0,No,No,No
+VIII,Toxtricity,Electric,Poison,,,,,,,0,No,No,No
+VIII,Sizzlipede,Fire,Bug,,,,,,,0,No,No,No
+VIII,Centiskorch,Fire,Bug,,,,,,,0,No,No,No
+VIII,Clobbopus,Fighting,,,,,,,,0,No,No,No
+VIII,Grapploct,Fighting,,,,,,,,0,No,No,No
+VIII,Sinistea,Ghost,,,,,,,,0,No,No,No
+VIII,Polteageist,Ghost,,,,,,,,0,No,No,No
+VIII,Hatenna,Psychic,,,,,,,,0,No,No,No
+VIII,Hattrem,Psychic,,,,,,,,0,No,No,No
+VIII,Hatterene,Psychic,Fairy,,,,,,,0,No,No,No
+VIII,Impidimp,Dark,Fairy,,,,,,,0,No,No,No
+VIII,Morgrem,Dark,Fairy,,,,,,,0,No,No,No
+VIII,Grimmsnarl,Dark,Fairy,,,,,,,0,No,No,No
+VIII,Obstagoon,Dark,Normal,,,,,,,0,No,No,No
+VIII,Perrserker,Steel,,,,,,,,0,No,No,No
+VIII,Cursola,Ghost,,,,,,,,0,No,No,No
+VIII,Sirfetch'd,Fighting,,,,,,,,0,No,No,No
+VIII,Mr. Rime,Ice,Psychic,,,,,,,0,No,No,No
+VIII,Runerigus,Ground,Ghost,,,,,,,0,No,No,No
+VIII,Milcery,Fairy,,,,,,,,0,No,No,No
+VIII,Alcremie,Fairy,,,,,,,,0,No,No,No
+VIII,Falinks,Fighting,,,,,,,,0,No,No,No
+VIII,Pincurchin,Electric,,,,,,,,0,No,No,No
+VIII,Snom,Ice,Bug,,,,,,,0,No,No,No
+VIII,Frosmoth,Ice,Bug,,,,,,,0,No,No,No
+VIII,Stonjourner,Rock,,,,,,,,0,No,No,No
+VIII,Eiscue,Ice,,,,,,,,0,No,No,No
+VIII,Indeedee-M,Psychic,Normal,,,,,,,0,No,No,No
+VIII,Indeedee-F,Psychic,Normal,,,,,,,0,No,No,No
+VIII,Morpeko,Electric,Dark,,,,,,,0,No,No,No
+VIII,Cufant,Steel,,,,,,,,0,No,No,No
+VIII,Copperajah,Steel,,,,,,,,0,No,No,No
+VIII,Dracozolt,Electric,Dragon,,,,,,,0,No,No,No
+VIII,Arctozolt,Electric,Ice,,,,,,,0,No,No,No
+VIII,Dracovish,Water,Dragon,,,,,,,0,No,No,No
+VIII,Arctovish,Water,Ice,,,,,,,0,No,No,No
+VIII,Duraludon,Steel,Dragon,,,,,,,0,No,No,No
+VIII,Dreepy,Dragon,Ghost,,,,,,,0,No,No,No
+VIII,Drakloak,Dragon,Ghost,,,,,,,0,No,No,No
+VIII,Dragapult,Dragon,Ghost,,,,,,,0,No,No,No
+VIII,Zacian,Fairy,,,,,,,,0,No,No,No
+VIII,Zacian-Crowned,Fairy,Steel,,,,,,,0,No,No,No
+VIII,Zamazenta,Fighting,,,,,,,,0,No,No,No
+VIII,Zamazenta-Crowned,Fighting,Steel,,,,,,,0,No,No,No
+VIII,Eternatus,Poison,Dragon,,,,,,,0,No,No,No
+VIII,Kubfu,Fighting,,,,,,,,0,No,No,No
+VIII,Urshifu,Fighting,Dark,,,,,,,0,No,No,No
+VIII,Zarude,Dark,Grass,,,,,,,0,No,No,Yes
+VIII,Regieleki,Electric,,,,,,,,0,No,Yes,No
+VIII,Regidraco,Dragon,,,,,,,,0,No,Yes,No
+VIII,Glastrier,Ice,,,,,,,,0,No,Yes,No
+VIII,Spectrier,Ghost,,,,,,,,0,No,Yes,No
+VIII,Calyrex,Psychic,Grass,,,,,,,0,No,Yes,No
+VIII,Calyrex-Ice Rider,Psychic,Ice,,,,,,,0,No,Yes,No
+VIII,Calyrex-Shadow Rider,Psychic,Ghost,,,,,,,0,No,Yes,No
+IX,Sprigatito,Grass,,,,,,,,0,No,No,No
+IX,Floragato,Grass,,,,,,,,0,No,No,No
+IX,Meowscarada,Grass,Dark,,,,,,,0,No,No,No
+IX,Fuecoco,Fire,,,,,,,,0,No,No,No
+IX,Crocalor,Fire,,,,,,,,0,No,No,No
+IX,Skeledirge,Fire,Ghost,,,,,,,0,No,No,No
+IX,Quaxly,Water,,,,,,,,0,No,No,No
+IX,Quaxwell,Water,,,,,,,,0,No,No,No
+IX,Quaquaval,Water,Fighting,,,,,,,0,No,No,No
+IX,Lechonk,Normal,,,,,,,,0,No,No,No
+IX,Oinkologne,Normal,,,,,,,,0,No,No,No
+IX,Tarountula,Bug,,,,,,,,0,No,No,No
+IX,Spidops,Bug,,,,,,,,0,No,No,No
+IX,Nymble,Bug,,,,,,,,0,No,No,No
+IX,Lokix,Bug,Dark,,,,,,,0,No,No,No
+IX,Pawmi,Electric,,,,,,,,0,No,No,No
+IX,Pawmo,Electric,Fighting,,,,,,,0,No,No,No
+IX,Pawmot,Electric,Fighting,,,,,,,0,No,No,No
+IX,Tandemaus,Normal,,,,,,,,0,No,No,No
+IX,Maushold,Normal,,,,,,,,0,No,No,No
+IX,Fidough,Fairy,,,,,,,,0,No,No,No
+IX,Dachsbun,Fairy,,,,,,,,0,No,No,No
+IX,Smoliv,Grass,Normal,,,,,,,0,No,No,No
+IX,Dolliv,Grass,Normal,,,,,,,0,No,No,No
+IX,Arboliva,Grass,Normal,,,,,,,0,No,No,No
+IX,Squawkabilly,Normal,Flying,,,,,,,0,No,No,No
+IX,Nacli,Rock,,,,,,,,0,No,No,No
+IX,Naclstack,Rock,,,,,,,,0,No,No,No
+IX,Garganacl,Rock,,,,,,,,0,No,No,No
+IX,Charcadet,Fire,,,,,,,,0,No,No,No
+IX,Armarouge,Fire,Psychic,,,,,,,0,No,No,No
+IX,Ceruledge,Fire,Ghost,,,,,,,0,No,No,No
+IX,Tadbulb,Electric,,,,,,,,0,No,No,No
+IX,Bellibolt,Electric,,,,,,,,0,No,No,No
+IX,Wattrel,Electric,Flying,,,,,,,0,No,No,No
+IX,Kilowattrel,Electric,Flying,,,,,,,0,No,No,No
+IX,Maschiff,Dark,,,,,,,,0,No,No,No
+IX,Mabosstiff,Dark,,,,,,,,0,No,No,No
+IX,Shroodle,Poison,Normal,,,,,,,0,No,No,No
+IX,Grafaiai,Poison,Normal,,,,,,,0,No,No,No
+IX,Bramblin,Grass,Ghost,,,,,,,0,No,No,No
+IX,Brambleghast,Grass,Ghost,,,,,,,0,No,No,No
+IX,Toedscool,Ground,Grass,,,,,,,0,No,No,No
+IX,Toedscruel,Ground,Grass,,,,,,,0,No,No,No
+IX,Klawf,Rock,,,,,,,,0,No,No,No
+IX,Capsakid,Grass,,,,,,,,0,No,No,No
+IX,Scovillain,Grass,Fire,,,,,,,0,No,No,No
+IX,Rellor,Bug,,,,,,,,0,No,No,No
+IX,Rabsca,Bug,Psychic,,,,,,,0,No,No,No
+IX,Flittle,Psychic,,,,,,,,0,No,No,No
+IX,Espathra,Psychic,,,,,,,,0,No,No,No
+IX,Tinkatink,Fairy,Steel,,,,,,,0,No,No,No
+IX,Tinkatuff,Fairy,Steel,,,,,,,0,No,No,No
+IX,Tinkaton,Fairy,Steel,,,,,,,0,No,No,No
+IX,Wiglett,Water,,,,,,,,0,No,No,No
+IX,Wugtrio,Water,,,,,,,,0,No,No,No
+IX,Bombirdier,Flying,Dark,,,,,,,0,No,No,No
+IX,Finizen,Water,,,,,,,,0,No,No,No
+IX,Palafin,Water,,,,,,,,0,No,No,No
+IX,Varoom,Steel,Poison,,,,,,,0,No,No,No
+IX,Revavroom,Steel,Poison,,,,,,,0,No,No,No
+IX,Cyclizar,Dragon,Normal,,,,,,,0,No,No,No
+IX,Orthworm,Steel,,,,,,,,0,No,No,No
+IX,Glimmet,Rock,Poison,,,,,,,0,No,No,No
+IX,Glimmora,Rock,Poison,,,,,,,0,No,No,No
+IX,Greavard,Ghost,,,,,,,,0,No,No,No
+IX,Houndstone,Ghost,,,,,,,,0,No,No,No
+IX,Flamigo,Flying,Fighting,,,,,,,0,No,No,No
+IX,Cetoddle,Ice,,,,,,,,0,No,No,No
+IX,Cetitan,Ice,,,,,,,,0,No,No,No
+IX,Veliza,Water,Psychic,,,,,,,0,No,No,No
+IX,Dondozo,Water ,,,,,,,,0,No,No,No
+IX,Tatsugiri,Dragon,Water,,,,,,,0,No,No,No
+IX,Annihilape,Fighting,Ghost,,,,,,,0,No,No,No
+IX,Clodsire,Poison,Ground,,,,,,,0,No,No,No
+IX,Farigiraf,Normal,Psychic,,,,,,,0,No,No,No
+IX,Dudunsparce,Normal,,,,,,,,0,No,No,No
+IX,Kingambit,Dark,Steel,,,,,,,0,No,No,No
+IX,Great Tusk,Ground,Fighting,,,,,,,0,No,No,No
+IX,Scream Tail,Fairy,Psychic,,,,,,,0,No,No,No
+IX,Brute Bonnet,Grass,Dark,,,,,,,0,No,No,No
+IX,Flutter Mane,Ghost,Fairy,,,,,,,0,No,No,No
+IX,Slither Wing,Bug,Fighting,,,,,,,0,No,No,No
+IX,Sandy Shock,Electric,Ground,,,,,,,0,No,No,No
+IX,Iron Treads,Ground,Steel,,,,,,,0,No,No,No
+IX,Iron Bundle,Ice,Wate,,,,,,,0,No,No,No
+IX,Iron Hands,Fighting,Electric,,,,,,,0,No,No,No
+IX,Iron Jugulis,Dark,Flying,,,,,,,0,No,No,No
+IX,Iron Moth,Fire,Poison,,,,,,,0,No,No,No
+IX,Iron Thorns,Rock,Electric,,,,,,,0,No,No,No
+IX,Frigibax,Dragon,Ice,,,,,,,0,No,No,No
+IX,Arctibax,Dragon,Ice,,,,,,,0,No,No,No
+IX,Baxcalibur,Dragon,Ice,,,,,,,0,No,No,No
+IX,Gimmighoul,Ghost,,,,,,,,0,No,No,No
+IX,Gholdengo,Steel,Ghost,,,,,,,0,No,No,No
+IX,Wo-Chien,Dark,Grass,,,,,,,0,No,Yes,No
+IX,Chien-Pao,Dark,Ice,,,,,,,0,No,Yes,No
+IX,Ting-Lu,Dark,Ground,,,,,,,0,No,Yes,No
+IX,Chi-Yu,Dark,Fire,,,,,,,0,No,Yes,No
+IX,Roaring Moon,Dragon,Dark,,,,,,,0,No,No,No
+IX,Iron Valiant,Fairy,Fighting,,,,,,,0,No,No,No
+IX,Koraidon,Fighting,Dragon,,,,,,,0,No,Yes,No
+IX,Miraidon,Electric,Dragon,,,,,,,0,No,Yes,No
+IX,Walking Wake,Water,Dragon,,,,,,,0,No,No,No
+IX,Iron Leaves,Grass,Psychic,,,,,,,0,No,No,No
+IX,Dipplin,Grass,Dragon,,,,,,,0,No,No,No
+IX,Poltchageist,Grass,Ghost,,,,,,,0,No,No,No
+IX,Sinistcha,Grass,Ghost,,,,,,,0,No,No,No
+IX,Okidogi,Poison,Fighting,,,,,,,0,No,Yes,No
+IX,Munkidori,Poison,Psychic,,,,,,,0,No,Yes,No
+IX,Fezandipiti,Poison,Fairy,,,,,,,0,No,Yes,No
+IX,Ogerpon,Grass,,,,,,,,0,No,Yes,No
+IX,Archaludon,Steel,Dragon,,,,,,,0,No,No,No
+IX,Hydrapple,Grass,Dragon,,,,,,,0,No,No,No
+IX,Gouging Fire,Fire,Dragon,,,,,,,0,No,No,No
+IX,Raging Bolt,Electric,Dragon,,,,,,,0,No,No,No
+IX,Iron Boulder,Rock,Psychic,,,,,,,0,No,No,No
+IX,Iron Crown,Steel,Psychic,,,,,,,0,No,No,No
+IX,Terapagos,Normal,,,,,,,,0,No,Yes,No
+IX,Pecharunt,Poison,Ghost,,,,,,,0,No,No,Yes
